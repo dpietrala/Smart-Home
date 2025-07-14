@@ -1,0 +1,82 @@
+Dependencies for Project 'MB6', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6220000::V6.22::ARMCLANG
+F (.\Comunication.c)(0x5E03C3F7)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/Dawid/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/Dawid/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.17.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="540" -DSTM32F407xx -D_RTE_-o ./objects/comunication.o -MMD)
+I (Comunication.h)(0x5E03C36B)
+I (Control.h)(0x5E04AF46)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x66C85EE9)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x66C85EE9)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C2CE8)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x66C85EE9)
+I (Input.h)(0x5D4407FF)
+I (Output.h)(0x5DE25207)
+I (eeprom.h)(0x68275EC1)
+I (flash.h)(0x5DFE559B)
+F (.\Comunication.h)(0x5E03C36B)()
+F (.\Control.c)(0x6827484A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/Dawid/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/Dawid/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.17.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="540" -DSTM32F407xx -D_RTE_-o ./objects/control.o -MMD)
+I (Control.h)(0x5E04AF46)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x66C85EE9)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x66C85EE9)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C2CE8)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x66C85EE9)
+I (Input.h)(0x5D4407FF)
+I (Output.h)(0x5DE25207)
+I (Comunication.h)(0x5E03C36B)
+I (eeprom.h)(0x68275EC1)
+I (flash.h)(0x5DFE559B)
+F (.\Control.h)(0x5E04AF46)()
+F (.\eeprom.c)(0x68275E9A)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/Dawid/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/Dawid/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.17.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="540" -DSTM32F407xx -D_RTE_-o ./objects/eeprom.o -MMD)
+I (eeprom.h)(0x68275EC1)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x66C85EE9)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x66C85EE9)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C2CE8)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x66C85EE9)
+I (flash.h)(0x5DFE559B)
+F (.\eeprom.h)(0x68275EC1)()
+F (.\flash.c)(0x68224DC7)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/Dawid/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/Dawid/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.17.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="540" -DSTM32F407xx -D_RTE_-o ./objects/flash.o -MMD)
+I (flash.h)(0x5DFE559B)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x66C85EE9)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x66C85EE9)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C2CE8)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x66C85EE9)
+F (.\flash.h)(0x5DFE559B)()
+F (.\Input.c)(0x5DFF7C0E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/Dawid/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/Dawid/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.17.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="540" -DSTM32F407xx -D_RTE_-o ./objects/input.o -MMD)
+I (Input.h)(0x5D4407FF)
+I (Control.h)(0x5E04AF46)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x66C85EE9)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x66C85EE9)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C2CE8)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x66C85EE9)
+I (Output.h)(0x5DE25207)
+I (Comunication.h)(0x5E03C36B)
+I (eeprom.h)(0x68275EC1)
+I (flash.h)(0x5DFE559B)
+F (.\Input.h)(0x5D4407FF)()
+F (.\main.c)(0x5E04ADF1)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/Dawid/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/Dawid/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.17.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="540" -DSTM32F407xx -D_RTE_-o ./objects/main.o -MMD)
+I (Control.h)(0x5E04AF46)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x66C85EE9)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x66C85EE9)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C2CE8)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x66C85EE9)
+I (Input.h)(0x5D4407FF)
+I (Output.h)(0x5DE25207)
+I (Comunication.h)(0x5E03C36B)
+I (eeprom.h)(0x68275EC1)
+I (flash.h)(0x5DFE559B)
+F (.\Output.c)(0x5E03BD85)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/Dawid/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/Dawid/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.17.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="540" -DSTM32F407xx -D_RTE_-o ./objects/output.o -MMD)
+I (Output.h)(0x5DE25207)
+I (Control.h)(0x5E04AF46)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x66C85EE9)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x66C85EE9)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C2CE8)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x66C85EE9)
+I (Input.h)(0x5D4407FF)
+I (Comunication.h)(0x5E03C36B)
+I (eeprom.h)(0x68275EC1)
+I (flash.h)(0x5DFE559B)
+F (.\Output.h)(0x5DE25207)()
+F (RTE/Device/STM32F407VGTx/startup_stm32f407xx.s)(0x5A8FF5D4)(--cpu Cortex-M4.fp.sp -g --diag_suppress=A1950W-I.\RTE\_Target_1-IC:\Users\Dawid\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include-IC:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include--pd "__UVISION_VERSION SETA 540"--pd "STM32F407xx SETA 1"--pd "_RTE_ SETA 1"--list .\listings\startup_stm32f407xx.lst--xref -o .\objects\startup_stm32f407xx.o--depend .\objects\startup_stm32f407xx.d)
+F (RTE/Device/STM32F407VGTx/system_stm32f4xx.c)(0x5A8FF5D4)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O0 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier-I./RTE/_Target_1-IC:/Users/Dawid/AppData/Local/Arm/Packs/ARM/CMSIS/6.1.0/CMSIS/Core/Include-IC:/Users/Dawid/AppData/Local/Arm/Packs/Keil/STM32F4xx_DFP/2.17.1/Drivers/CMSIS/Device/ST/STM32F4xx/Include-D__UVISION_VERSION="540" -DSTM32F407xx -D_RTE_-o ./objects/system_stm32f4xx.o -MMD)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h)(0x66C85EE9)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h)(0x66C85EE9)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\ARM\CMSIS\6.1.0\CMSIS\Core\Include\core_cm4.h)(0x664C2CE8)
+I (C:\Users\Dawid\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h)(0x66C85EE9)
